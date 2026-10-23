@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>mono_depth_viewer</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>Qt viewer that runs transformer-based monocular depth estimation on image topics stored in ROS 2 bags.</description>
   <maintainer email="n.divagar18@gmail.com">Divagar</maintainer>
   <license>Apache-2.0</license>
