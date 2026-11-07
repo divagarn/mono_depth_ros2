@@ -20,5 +20,5 @@ setup(
     description="Monocular depth estimation viewer for ROS 2 bags (transformer based).",
     license="Apache-2.0",
     tests_require=["pytest"],
-    entry_points={"console_scripts": ["viewer = mono_depth_viewer.viewer:main"]},
+    entry_points={"console_scripts": ["viewer = mono_depth_viewer.main:main"]},
 )
